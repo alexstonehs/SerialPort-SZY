@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net452</TargetFramework>
+    <Authors>Zhongyu Shi</Authors>
+    <Company>Tongyang</Company>
+    <Description>串口连接实现类，提供基础的串口数据收发支持
+1.0.2版本，优化数据读取方式</Description>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="packages\**" />
+    <EmbeddedResource Remove="packages\**" />
+    <None Remove="packages\**" />
+  </ItemGroup>
+
+</Project>

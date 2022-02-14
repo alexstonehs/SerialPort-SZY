@@ -1,0 +1,8 @@
+D:\TYSerialPort\SerialPort-SZY\bin\Debug\net452\ZySerialPort.dll
+D:\TYSerialPort\SerialPort-SZY\bin\Debug\net452\ZySerialPort.pdb
+D:\TYSerialPort\SerialPort-SZY\obj\Debug\net452\ZySerialPort.GeneratedMSBuildEditorConfig.editorconfig
+D:\TYSerialPort\SerialPort-SZY\obj\Debug\net452\ZySerialPort.AssemblyInfoInputs.cache
+D:\TYSerialPort\SerialPort-SZY\obj\Debug\net452\ZySerialPort.AssemblyInfo.cs
+D:\TYSerialPort\SerialPort-SZY\obj\Debug\net452\ZySerialPort.csproj.CoreCompileInputs.cache
+D:\TYSerialPort\SerialPort-SZY\obj\Debug\net452\ZySerialPort.dll
+D:\TYSerialPort\SerialPort-SZY\obj\Debug\net452\ZySerialPort.pdb
