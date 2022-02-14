@@ -1,8 +1,0 @@
-D:\TYSerialPort\TYSerialPort\bin\Debug\net452\TYSerialPort.dll
-D:\TYSerialPort\TYSerialPort\bin\Debug\net452\TYSerialPort.pdb
-D:\TYSerialPort\TYSerialPort\obj\Debug\net452\TYSerialPort.AssemblyInfoInputs.cache
-D:\TYSerialPort\TYSerialPort\obj\Debug\net452\TYSerialPort.AssemblyInfo.cs
-D:\TYSerialPort\TYSerialPort\obj\Debug\net452\TYSerialPort.csproj.CoreCompileInputs.cache
-D:\TYSerialPort\TYSerialPort\obj\Debug\net452\TYSerialPort.dll
-D:\TYSerialPort\TYSerialPort\obj\Debug\net452\TYSerialPort.pdb
-D:\TYSerialPort\TYSerialPort\obj\Debug\net452\TYSerialPort.csprojAssemblyReference.cache
